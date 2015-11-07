@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://loop23.github.io
+title: Loop's rants
+tagline: I write when I find something interesting
+description: Mostly programming, hardware and ideas
+paginate: 5
